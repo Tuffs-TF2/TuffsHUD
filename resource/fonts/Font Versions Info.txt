@@ -1,0 +1,4 @@
+rg = regular
+bd = bold
+cd = condensed regular
+ d = d regular
