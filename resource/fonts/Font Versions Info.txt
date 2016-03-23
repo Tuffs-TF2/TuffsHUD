@@ -1,4 +1,4 @@
 rg = regular
 bd = bold
-cd = condensed regular
- d = d regular
+rg it = italic
+bd it = bold italic

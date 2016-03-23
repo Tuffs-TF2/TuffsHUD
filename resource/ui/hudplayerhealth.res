@@ -5,12 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"185"		[$WIN32]
-		"xpos_minmode"	"-5"		[$WIN32]
-		"ypos"			"300"	[$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
-		"xpos"			"32"	[$X360]
-		"ypos"			"r144"	[$X360]
+		"xpos"			"c-260"		[$WIN32]
+		"ypos"			"c80"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"120"
@@ -25,11 +21,10 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
 		"xpos"			"75"
-		"xpos_minmode"	"60"
 		"ypos"			"35"
 		"zpos"			"4"
-		"wide"			"51"
-		"tall"			"51"
+		"wide"			"60"
+		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -42,8 +37,8 @@
 		"xpos_minmode"	"58"
 		"ypos"			"33"
 		"zpos"			"3"
-		"wide"			"55"
-		"tall"			"55"
+		"wide"			"65"
+		"tall"			"65"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_bg"
@@ -77,17 +72,17 @@
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
 		"xpos_minmode"	"61"
-		"ypos"			"52"	[$WIN32]
-		"ypos"			"55"	[$X360]
+		"ypos"			"52"	
+		"ypos"			"55"	
 		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"59"
+		"tall"			"27"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"BlueHighway-Regular-18"
-		"fgcolor"		"TanDark"
+		"font"			"KenyanCoffee-Bold-24"
+		"fgcolor"		"255 0 255 255"
 	}								
 	"PlayerStatusBleedImage"
 	{

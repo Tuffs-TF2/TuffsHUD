@@ -16,14 +16,10 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"500"	[$WIN32]
-		"xpos_minmode"	"r85"	[$WIN32]
-		"ypos"	"340"	[$WIN32]
-		"ypos_minmode"	"r36"	[$WIN32]
-		"xpos"	"r131"	[$X360]
-		"ypos"	"r77"	[$X360]
-		"wide"	"94"
-		"tall"	"45"
+		"xpos"	"c112"	
+		"ypos"	"c80"	
+		"wide"	"250"
+		"tall"	"120"
 	}
 	
 	HudObjectiveStatus
@@ -42,8 +38,8 @@
 		"fieldName" "HudKothTimeStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c-100"
-		"ypos"	"0"
+		"xpos"	"c-99.5"
+		"ypos"	"c155"
 		"wide"	"200"
 		"tall"	"160"
 		
@@ -76,14 +72,12 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
-		"ypos"			"r69"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
-		"xpos"			"r174"	[$X360]
-		"ypos"			"r90"	[$X360]
-		"wide"			"200"
-		"tall"			"100"
+		"xpos"			"c-115"
+		"ypos"			"c101"
+		"xpos"			"r174"
+		"ypos"			"r90"
+		"wide"			"400"
+		"tall"			"200"
 	}
 	
 	HudDemomanCharge
@@ -91,16 +85,12 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
-		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"wide_minmode"	"50"
-		"tall"			"8"
+		"xpos"			"c-97"
+		"ypos"			"c137.5"
+		"xpos"			"r174"
+		"ypos"			"r90"
+		"wide"			"400"
+		"tall"			"200"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -111,9 +101,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
@@ -130,9 +118,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
@@ -424,7 +410,16 @@
 
 	HudDamageIndicator
 	{
-
+//		"fieldName" "HudDamageIndicator"
+//		"visible" "1"
+//		"enabled" "1"
+//		"MinimumWidth" "10"
+//		"MaximumWidth" "10"		
+//		"StartRadius" "80"
+//		"EndRadius" "80"
+//		"MinimumHeight" "30"
+//		"MaximumHeight" "60"
+//		"MinimumTime" "1" 
 	}
 
 	HudCommentary
@@ -534,8 +529,8 @@
 		"fieldName" "ScorePanel"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "640"
-		"tall"	 "480"
+		"wide"	 "160"
+		"tall"	 "120"
 	}
 
 	HudTrain
@@ -1034,10 +1029,8 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r30"	[$WIN32]
+		"xpos"			"r483.5"	[$WIN32]
+		"ypos"			"r142"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"

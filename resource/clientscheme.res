@@ -2844,87 +2844,374 @@ Scheme
 		
 		// These are my HUD fonts
 		
-		// Blue Highway Regular
+		// Kenyan Coffee Regular
 		
-		BlueHighway-Regular-12
+		KenyanCoffee-Regular-12
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
 		
-		BlueHighway-Regular-16
+		KenyanCoffee-Regular-16
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
 		
-		BlueHighway-Regular-18
+		KenyanCoffee-Regular-18
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"18"
 				"antialias" "1"
 			}
 		}
 		
-		BlueHighway-Regular-24
+		KenyanCoffee-Regular-24
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
 		
-		BlueHighway-Regular-32
+		KenyanCoffee-Regular-28
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Regular-32
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
 		
-		BlueHighway-Regular-36
+		KenyanCoffee-Regular-36
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
 		
-		BlueHighway-Regular-42
+		KenyanCoffee-Regular-42
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"42"
 				"antialias" "1"
 			}
 		}
 		
-		BlueHighway-Regular-48
+		KenyanCoffee-Regular-48
 		{
 			"1"
 			{
-				"name"		"BlueHighway-Regular"
+				"name"		"KenyanCoffeeRg-Regular"
 				"tall"		"48"
 				"antialias" "1"
 			}
 		}
+		
+		// Kenyan Coffee Bold
+		
+		KenyanCoffee-Bold-12
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-16
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRG-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-18
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-24
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-28
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-32
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-36
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-42
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Bold-48
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		// Kenyan Coffee Italic
+		
+		KenyanCoffee-Italic-12
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-16
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRG-Italic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-18
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-24
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-28
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-32
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-36
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-42
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-Italic-48
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		// Kenyan Coffee BoldItalic
+		
+		KenyanCoffee-BoldItalic-12
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-16
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRG-Italic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-18
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-24
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-28
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-32
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-36
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-42
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		KenyanCoffee-BoldItalic-48
+		{
+			"1"
+			{
+				"name"		"KenyanCoffeeRg-Italic"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
 	}
 	
 	//
@@ -5264,22 +5551,22 @@ Scheme
 	
 		"8"
 		{
-			"font" "resource/fonts/blue highway rg.ttf"
-			"name" "BlueHighway-Regular"
+			"font" "resource/fonts/kenyan coffee rg.ttf"
+			"name" "KenyanCoffeeRg-Regular"
 		}		
 		"9"
 		{
-			"font" "resource/fonts/blue highway bd.ttf"
-			"name" "BlueHighway-Bold"
+			"font" "resource/fonts/kenyan coffee bd.ttf"
+			"name" "KenyanCoffeeRg-Bold"
 		}
 		"10"
 		{
-			"font" "resource/fonts/blue highway cd.ttf"
-			"name" "BlueHighwayCondensed-Regular"
+			"font" "resource/fonts/kenyan coffee rg it.ttf"
+			"name" "KenyanCoffeeRg-Italic"
 		}
 		"11"
 		{
-			"font" "resource/fonts/blue highway d.ttf"
-			"name" "BlueHighwayD-Regular"
+			"font" "resource/fonts/kenyan coffee bd it.ttf"
+			"name" "KenyanCoffeeRg-BoldItalic"
 		}
 	}
